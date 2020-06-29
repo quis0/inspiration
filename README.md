@@ -1,4 +1,4 @@
-## Small website for inspiration
+<h1 align="center">Small website for inspiration</h1>
 
 *Read this in other languages: [English](README.md), [Русский](README.ru.md)*
 
