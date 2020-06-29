@@ -8,5 +8,5 @@
 1.  Скачайте данный репозиторий
 2.  Запустите `index.html` 
 
-### Посмотреть сайт: https://quis0.github.io//
+### Посмотреть сайт: https://quis0.github.io/inspiration/
 
