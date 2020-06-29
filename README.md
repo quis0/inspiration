@@ -8,4 +8,4 @@
 1.  Download this repository
 2.  Open `index.html` 
 
-### Try it: https://quis0.github.io//
+### Try it: https://quis0.github.io/inspiration/
