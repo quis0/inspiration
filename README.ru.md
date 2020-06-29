@@ -1,6 +1,9 @@
-<h1 align="center">Небольшой вебсайт для вдохновения</h1>
+<h1 align="center">Inspiration</h1>
 
 *Read this in other languages: [English](README.md), [Русский](README.ru.md)*
+
+### О проекте
+Небольшой сайт для вдохновения
 
 ### Текущая версия: 1.0.0 :white_check_mark:
 
