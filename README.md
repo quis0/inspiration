@@ -14,8 +14,14 @@ This site is made for inspiration
 1.  Download this repository
 2.  Open `index.html` 
 
+### Project tech stack:
+1. HTML 5
+2. CSS 3
+3. JavaScript (ES6)
+
 ### Future scope
    * Add quote refresh button
    * Add dog image refresh button
+   
 
 ### Try it: https://quis0.github.io/inspiration/
