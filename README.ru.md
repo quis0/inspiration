@@ -1,4 +1,4 @@
-## Небольшой вебсайт для вдохновения
+<h1 align="center">Небольшой вебсайт для вдохновения</h1>
 
 *Read this in other languages: [English](README.md), [Русский](README.ru.md)*
 
