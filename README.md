@@ -14,4 +14,8 @@ This site is made for inspiration
 1.  Download this repository
 2.  Open `index.html` 
 
+### Future scope
+   * Add quote refresh button
+   * Add dog image refresh button
+
 ### Try it: https://quis0.github.io/inspiration/
