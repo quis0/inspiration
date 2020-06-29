@@ -1,4 +1,4 @@
-<h1 align="center">Inspiration</h1>
+<h1 align="center">Inspiration :bulb:</h1>
 
 *Read this in other languages: [English](README.md), [Русский](README.ru.md)*
 
