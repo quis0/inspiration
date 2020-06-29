@@ -24,7 +24,7 @@ imageAPI.getPhotoLink().then(res => {
 image.addEventListener('click', () => {
   count++;
   if (count == 10) {
-    const audio = new Audio('../sounds/bark.mp3');
+    const audio = new Audio('https://raw.githubusercontent.com/quis0/inspiration/master/sounds/bark.mp3');
     audio.play();
     count = 0;
   }
