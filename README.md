@@ -5,6 +5,9 @@
 ### About
 This site is made for inspiration
 
+### Functionality: 
+* Random quote and random dog picture on page load
+
 ### Current version: 1.0.0 :white_check_mark:
 
 ### Quick start
