@@ -1,0 +1,19 @@
+.quote__subtitle {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 50px 0 auto;
+  font-size: 28px;
+}
+
+
+@media screen and (max-width: 1024px) {
+  .quote__subtitle {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .quote__subtitle {
+    font-size: 12px;
+  }
+}

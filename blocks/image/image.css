@@ -1,0 +1,23 @@
+.image {
+  margin: 40px 0;
+  min-width: 30%;
+  max-width: 50%;
+  border-radius: 25px;
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+}
+
+@media screen and (max-width: 1024px) {
+  .image {
+    min-width: 40%;
+    max-width: 60%;
+    margin: 30px 0;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .image {
+    min-width: 60%;
+    max-width: 70%;
+    margin: 20px 0;
+  }
+}

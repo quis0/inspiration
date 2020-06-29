@@ -1,0 +1,9 @@
+.root {
+  font-family: 'Roboto';
+  margin: 0 auto;
+  max-width: 1440px;
+  background-color: #BFBFBF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

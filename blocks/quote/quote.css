@@ -1,0 +1,6 @@
+@import url(./__title/quote__title.css);
+@import url(./__subtitle/quote__subtitle.css);
+
+.quote {
+  max-width: 80%;
+}
