@@ -1,6 +1,9 @@
-<h1 align="center">Small website for inspiration</h1>
+<h1 align="center">Inspiration</h1>
 
 *Read this in other languages: [English](README.md), [Русский](README.ru.md)*
+
+### About
+This site is made for inspiration
 
 ### Current version: 1.0.0 :white_check_mark:
 
