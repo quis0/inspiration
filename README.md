@@ -7,6 +7,8 @@ This site is made for inspiration
 
 ### Functionality:
 * Random quote and random dog picture on page load
+* Theme switcher
+* Easter egg :wink:
 
 ### Current version: 1.0.5 :white_check_mark:
 
