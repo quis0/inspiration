@@ -1,11 +1,12 @@
 @import url(../quote/quote.css);
 @import url(../image/image.css);
+@import url(./_theme/content_theme_dark.css);
+@import url(./_theme/content_theme_white.css);
 
 .content {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: white;
   border-radius: 10px;
   width: 80%;
   margin-bottom: 20px;

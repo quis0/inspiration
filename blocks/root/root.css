@@ -1,8 +1,10 @@
+@import url(./_theme/root_theme_dark.css);
+@import url(./_theme/root_theme_white.css);
+
 .root {
   font-family: 'Roboto';
   margin: 0 auto;
   max-width: 1440px;
-  background-color: #BFBFBF;
   display: flex;
   flex-direction: column;
   align-items: center;

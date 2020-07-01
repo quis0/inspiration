@@ -1,0 +1,37 @@
+.header__checkbox {
+  -webkit-appearance: none;
+  position: relative;
+  outline: none;
+  left: 10px;
+  border-radius: 25px;
+  width: 60px;
+  height: 30px;
+  background-image: url(https://i.postimg.cc/857jHw2q/Screenshot-2020-04-16-at-1-07-06-PM.png);
+  background-size: cover;
+  transition: background-image .90s;
+  box-shadow: 0px 2px 5px 1px gray;
+}
+
+.header__checkbox:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 30px;
+  border-radius: 50px;
+  transition: all .9s;
+  background-color: #F7CA33;
+}
+
+.header__checkbox:checked {
+  background-image: url(https://i.postimg.cc/Hn0nstVK/Screenshot-2020-04-16-at-1-07-19-PM.png);
+  background-size: cover;
+  transition: all 0.9s;
+}
+
+.header__checkbox:checked:before {
+  transform: translate(100%);
+  transition: all .9s;
+  background-color: #ECF0F3;
+}
